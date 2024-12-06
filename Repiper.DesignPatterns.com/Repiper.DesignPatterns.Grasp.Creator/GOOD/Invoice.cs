@@ -30,3 +30,10 @@ public class Order
     }
     
 }
+public class PaymentProcessor
+{
+    public void ProcessPayment(Invoice invoice)
+    {
+        Console.WriteLine($"Processing invoice number: {invoice.InvoiceNumber} with payment amount: {invoice.Amount}");
+    }
+}
