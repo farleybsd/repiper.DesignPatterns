@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesingPatterns.Repiper.Deco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesingPatterns.Obsersver", "Comportamentais\DesingPatterns.Obsersver\DesingPatterns.Obsersver.csproj", "{FA491507-C590-40DB-B603-9A34D4C1FD1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design.Patterns.mediator", "Comportamentais\Design.Patterns.mediator\Design.Patterns.mediator.csproj", "{86364F81-ACCE-4EA5-9EB9-EBFA2CC48127}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{FA491507-C590-40DB-B603-9A34D4C1FD1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA491507-C590-40DB-B603-9A34D4C1FD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA491507-C590-40DB-B603-9A34D4C1FD1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86364F81-ACCE-4EA5-9EB9-EBFA2CC48127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86364F81-ACCE-4EA5-9EB9-EBFA2CC48127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86364F81-ACCE-4EA5-9EB9-EBFA2CC48127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86364F81-ACCE-4EA5-9EB9-EBFA2CC48127}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
