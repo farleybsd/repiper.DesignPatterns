@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesingPatterns.Obsersver", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design.Patterns.mediator", "Comportamentais\Design.Patterns.mediator\Design.Patterns.mediator.csproj", "{86364F81-ACCE-4EA5-9EB9-EBFA2CC48127}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignerPatterns.Chain-Of-Responsibility", "Comportamentais\DesignerPatterns.Chain-Of-Responsibility\DesignerPatterns.Chain-Of-Responsibility.csproj", "{C65496AB-089A-401A-9014-7F7EC0A72425}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{86364F81-ACCE-4EA5-9EB9-EBFA2CC48127}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86364F81-ACCE-4EA5-9EB9-EBFA2CC48127}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86364F81-ACCE-4EA5-9EB9-EBFA2CC48127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C65496AB-089A-401A-9014-7F7EC0A72425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65496AB-089A-401A-9014-7F7EC0A72425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65496AB-089A-401A-9014-7F7EC0A72425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65496AB-089A-401A-9014-7F7EC0A72425}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

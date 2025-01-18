@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesingPatterns.Repiper.Decorator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b9e78deca54e426cf0f965192626583ab5d17d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01facd32963765e3f5d0827193b2cb040b7cd7de")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesingPatterns.Repiper.Decorator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesingPatterns.Repiper.Decorator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
