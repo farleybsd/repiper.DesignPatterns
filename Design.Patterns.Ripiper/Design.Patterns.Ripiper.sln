@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignerPatterns.Chain-Of-R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design.Patterns.Ripiper.Proxy", "Comportamentais\Design.Patterns.Ripiper.Proxy\Design.Patterns.Ripiper.Proxy.csproj", "{65E65F44-0A09-47CE-9309-B47A2A1DD088}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design.Patterns.Repiper.command", "Comportamentais\Design.Patterns.Repiper.command\Design.Patterns.Repiper.command.csproj", "{5E33312C-CF87-47DA-B6A7-EBB50FF85F12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{65E65F44-0A09-47CE-9309-B47A2A1DD088}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65E65F44-0A09-47CE-9309-B47A2A1DD088}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65E65F44-0A09-47CE-9309-B47A2A1DD088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E33312C-CF87-47DA-B6A7-EBB50FF85F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E33312C-CF87-47DA-B6A7-EBB50FF85F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E33312C-CF87-47DA-B6A7-EBB50FF85F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E33312C-CF87-47DA-B6A7-EBB50FF85F12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
