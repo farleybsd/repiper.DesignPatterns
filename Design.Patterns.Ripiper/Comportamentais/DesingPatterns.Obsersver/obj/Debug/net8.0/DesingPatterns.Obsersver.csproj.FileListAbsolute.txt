@@ -1,0 +1,15 @@
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\Comportamentais\DesingPatterns.Obsersver\bin\Debug\net8.0\DesingPatterns.Obsersver.exe
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\Comportamentais\DesingPatterns.Obsersver\bin\Debug\net8.0\DesingPatterns.Obsersver.deps.json
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\Comportamentais\DesingPatterns.Obsersver\bin\Debug\net8.0\DesingPatterns.Obsersver.runtimeconfig.json
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\Comportamentais\DesingPatterns.Obsersver\bin\Debug\net8.0\DesingPatterns.Obsersver.dll
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\Comportamentais\DesingPatterns.Obsersver\bin\Debug\net8.0\DesingPatterns.Obsersver.pdb
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\Comportamentais\DesingPatterns.Obsersver\obj\Debug\net8.0\DesingPatterns.Obsersver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\Comportamentais\DesingPatterns.Obsersver\obj\Debug\net8.0\DesingPatterns.Obsersver.AssemblyInfoInputs.cache
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\Comportamentais\DesingPatterns.Obsersver\obj\Debug\net8.0\DesingPatterns.Obsersver.AssemblyInfo.cs
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\Comportamentais\DesingPatterns.Obsersver\obj\Debug\net8.0\DesingPatterns.Obsersver.csproj.CoreCompileInputs.cache
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\Comportamentais\DesingPatterns.Obsersver\obj\Debug\net8.0\DesingPatterns.Obsersver.sourcelink.json
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\Comportamentais\DesingPatterns.Obsersver\obj\Debug\net8.0\DesingPatterns.Obsersver.dll
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\Comportamentais\DesingPatterns.Obsersver\obj\Debug\net8.0\refint\DesingPatterns.Obsersver.dll
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\Comportamentais\DesingPatterns.Obsersver\obj\Debug\net8.0\DesingPatterns.Obsersver.pdb
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\Comportamentais\DesingPatterns.Obsersver\obj\Debug\net8.0\DesingPatterns.Obsersver.genruntimeconfig.cache
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\Comportamentais\DesingPatterns.Obsersver\obj\Debug\net8.0\ref\DesingPatterns.Obsersver.dll

@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design.Patterns.mediator", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignerPatterns.Chain-Of-Responsibility", "Comportamentais\DesignerPatterns.Chain-Of-Responsibility\DesignerPatterns.Chain-Of-Responsibility.csproj", "{C65496AB-089A-401A-9014-7F7EC0A72425}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design.Patterns.Ripiper.Proxy", "Comportamentais\Design.Patterns.Ripiper.Proxy\Design.Patterns.Ripiper.Proxy.csproj", "{65E65F44-0A09-47CE-9309-B47A2A1DD088}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{C65496AB-089A-401A-9014-7F7EC0A72425}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C65496AB-089A-401A-9014-7F7EC0A72425}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C65496AB-089A-401A-9014-7F7EC0A72425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65E65F44-0A09-47CE-9309-B47A2A1DD088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E65F44-0A09-47CE-9309-B47A2A1DD088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E65F44-0A09-47CE-9309-B47A2A1DD088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E65F44-0A09-47CE-9309-B47A2A1DD088}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
