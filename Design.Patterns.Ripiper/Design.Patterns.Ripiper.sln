@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Designer.Patterns.Ripper.it
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Ripiper.memento", "Comportamentais\DesignPatterns.Ripiper.memento\DesignPatterns.Ripiper.memento.csproj", "{88232EA4-6F8B-4C00-A8DB-C9EBCC058C6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design.Patterns.Ripiper.State", "Comportamentais\Design.Patterns.Ripiper.State\Design.Patterns.Ripiper.State.csproj", "{D4BFAF1E-C890-470F-B960-293C04D7546D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +110,9 @@ Global
 		{88232EA4-6F8B-4C00-A8DB-C9EBCC058C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88232EA4-6F8B-4C00-A8DB-C9EBCC058C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88232EA4-6F8B-4C00-A8DB-C9EBCC058C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4BFAF1E-C890-470F-B960-293C04D7546D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4BFAF1E-C890-470F-B960-293C04D7546D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4BFAF1E-C890-470F-B960-293C04D7546D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4BFAF1E-C890-470F-B960-293C04D7546D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

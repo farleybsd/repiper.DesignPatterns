@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Designer.Patterns.Ripper.iterator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5a84d1ee92d4801ea1c73331877d3e0a1ebecb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b2983630607f9c072a552a402abf555fbb4b5df")]
 [assembly: System.Reflection.AssemblyProductAttribute("Designer.Patterns.Ripper.iterator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Designer.Patterns.Ripper.iterator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
