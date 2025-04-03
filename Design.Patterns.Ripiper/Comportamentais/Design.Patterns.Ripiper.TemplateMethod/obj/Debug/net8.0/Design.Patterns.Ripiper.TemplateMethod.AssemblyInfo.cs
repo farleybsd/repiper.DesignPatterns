@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Design.Patterns.Ripiper.TemplateMethod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+903de77b90083dd67b7c13403ec2f5ffda3f58a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+404d10ad23dd2312915dde38751005496293ef14")]
 [assembly: System.Reflection.AssemblyProductAttribute("Design.Patterns.Ripiper.TemplateMethod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Design.Patterns.Ripiper.TemplateMethod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Design.Patterns.Ripiper.Strategy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dd39a9de4654fe7a9a44d0b6caaa31a088f4afa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+404d10ad23dd2312915dde38751005496293ef14")]
 [assembly: System.Reflection.AssemblyProductAttribute("Design.Patterns.Ripiper.Strategy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Design.Patterns.Ripiper.Strategy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

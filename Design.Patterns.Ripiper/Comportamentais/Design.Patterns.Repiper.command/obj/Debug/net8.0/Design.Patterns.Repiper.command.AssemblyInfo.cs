@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Design.Patterns.Repiper.command")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b2983630607f9c072a552a402abf555fbb4b5df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+404d10ad23dd2312915dde38751005496293ef14")]
 [assembly: System.Reflection.AssemblyProductAttribute("Design.Patterns.Repiper.command")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Design.Patterns.Repiper.command")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Repiper.DesignPatterns.Grasp.Polymorphism")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6772f18aa9ff05b456d3e802f3bb5e61c3280570")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+404d10ad23dd2312915dde38751005496293ef14")]
 [assembly: System.Reflection.AssemblyProductAttribute("Repiper.DesignPatterns.Grasp.Polymorphism")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Repiper.DesignPatterns.Grasp.Polymorphism")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

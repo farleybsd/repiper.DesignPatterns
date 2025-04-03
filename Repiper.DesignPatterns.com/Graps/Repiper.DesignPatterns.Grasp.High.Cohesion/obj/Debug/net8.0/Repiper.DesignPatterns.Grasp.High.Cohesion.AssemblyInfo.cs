@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Repiper.DesignPatterns.Grasp.High.Cohesion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65bf3eb848cc4f4ac518a20473a81edeb1da56ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+404d10ad23dd2312915dde38751005496293ef14")]
 [assembly: System.Reflection.AssemblyProductAttribute("Repiper.DesignPatterns.Grasp.High.Cohesion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Repiper.DesignPatterns.Grasp.High.Cohesion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
