@@ -1,0 +1,15 @@
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\ValidacoesFluentes\bin\Debug\net8.0\ValidacoesFluentes.exe
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\ValidacoesFluentes\bin\Debug\net8.0\ValidacoesFluentes.deps.json
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\ValidacoesFluentes\bin\Debug\net8.0\ValidacoesFluentes.runtimeconfig.json
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\ValidacoesFluentes\bin\Debug\net8.0\ValidacoesFluentes.dll
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\ValidacoesFluentes\bin\Debug\net8.0\ValidacoesFluentes.pdb
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\ValidacoesFluentes\obj\Debug\net8.0\ValidacoesFluentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\ValidacoesFluentes\obj\Debug\net8.0\ValidacoesFluentes.AssemblyInfoInputs.cache
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\ValidacoesFluentes\obj\Debug\net8.0\ValidacoesFluentes.AssemblyInfo.cs
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\ValidacoesFluentes\obj\Debug\net8.0\ValidacoesFluentes.csproj.CoreCompileInputs.cache
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\ValidacoesFluentes\obj\Debug\net8.0\ValidacoesFluentes.sourcelink.json
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\ValidacoesFluentes\obj\Debug\net8.0\ValidacoesFluentes.dll
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\ValidacoesFluentes\obj\Debug\net8.0\refint\ValidacoesFluentes.dll
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\ValidacoesFluentes\obj\Debug\net8.0\ValidacoesFluentes.pdb
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\ValidacoesFluentes\obj\Debug\net8.0\ValidacoesFluentes.genruntimeconfig.cache
+C:\Git\repiper.DesignPatterns\Design.Patterns.Ripiper\ValidacoesFluentes\obj\Debug\net8.0\ref\ValidacoesFluentes.dll
